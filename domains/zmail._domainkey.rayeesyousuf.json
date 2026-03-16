@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "RayeesYousufGenAi",
+    "email": "ryousuf31@gmail.com"
+  },
+  "records": {
+    "TXT": "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQm3OwdpsdHTKMMvJG6I80bVKjSJaWe8TSel5J7ZWaS2kG/KTQa2waJ0RWYsBNBe/Ieol2P9NgwBnAAirX1+IzlkeThRHrLl93FOC4INW5EV5HQA9nKkcc3S1VLGKWNeEzyYPCjHOehTfaFyifrOoU0zd5vveoAzHnkpcNFgjsXwIDAQAB"
+  }
+}
